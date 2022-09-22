@@ -11,7 +11,7 @@ html {
     position: relative;
     padding-bottom: 5.14vw;
 }
-body {
+.body {
 	margin: 0 auto;
 }
 .homePage {
