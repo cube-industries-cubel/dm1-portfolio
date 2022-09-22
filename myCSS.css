@@ -1,5 +1,24 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
+html {
+    font-family: D-DIN, sans-serif;
+    background-color: #121212;
+    color: white;
+}
+a {
+    color: #2A456E;
+}
+body {
+    margin: 0;
+    position: relative;
+}
+.main-container {
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 5.14vw;
+}
 body {
 	margin: 0 auto;
 }
