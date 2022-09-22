@@ -4,6 +4,9 @@ html {
     font-family: D-DIN, sans-serif;
     background-color: #121212;
 }
+div.content {
+    color: #f0a7a7;
+}
 .main-container {
     min-height: 100vh;
     overflow: hidden;
