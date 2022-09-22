@@ -5,12 +5,6 @@ html {
     background-color: #121212;
     color: white;
 }
-a {
-    color: #2A456E;
-}
-a:link {
-    color: #2a456E;
-}
 .main-container {
     min-height: 100vh;
     overflow: hidden;
