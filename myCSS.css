@@ -8,10 +8,6 @@ html {
 a {
     color: #2A456E;
 }
-body {
-    margin: 0;
-    position: relative;
-}
 .main-container {
     min-height: 100vh;
     overflow: hidden;
