@@ -62,7 +62,14 @@ div.content {
     color: #B7ACC3;
   }
 .p {
-    color: #B7ACC3
+    color: #B7ACC3;
+}
+a:visited {
+     color: #B7ACC3;
+}
+a:link {
+     color: #B7ACC3;
+}
 @font-face {
     font-family: 'D-DINCondensed';
     src: url(../fonts/D-DINCondensed-Bold.otf);
