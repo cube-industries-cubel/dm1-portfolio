@@ -60,16 +60,19 @@ div.content {
 	width: 100%;
 	text-align: center;
 }
+div.footer {
+	color: #867E8F;
+}
 .h1 {
     color: #B7ACC3;
   }
 .p {
     color: #B7ACC3;
 }
-.a:visited {
+a:visited {
      color: #B7ACC3;
 }
-.a:link {
+a:link {
      color: #B7ACC3;
 }
 @font-face {
