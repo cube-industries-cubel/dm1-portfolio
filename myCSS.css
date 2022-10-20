@@ -1,22 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
-html {
-    font-family: D-DIN, sans-serif;
-    background-color: #121212;
-}
-div.content {
-    color: #f0a7a7;
-}
-.main-container {
-    min-height: 100vh;
-    overflow: hidden;
-    display: block;
-    position: relative;
-    padding-bottom: 5.14vw;
-}
-.body {
+body {
 	margin: 0 auto;
-	color: #867E8F;
 }
 .homePage {
 	background: #2C2138;
@@ -36,7 +21,7 @@ div.content {
 	
 }
 .nav {
-	background: #3E3A42;
+	background: #BBBBBB;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -49,65 +34,20 @@ div.content {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
+	height: 960px;
 	text-align: center;
 }
 .footer {
-	color: #867E8F;
 	background: #777777;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
+  
 }
-div.footer {
-	color: #867E8F;
-}
-.h1 {
+h1 {
     color: #B7ACC3;
-}
-.h4 {
-    color: #B7ACC3;
-}
-.p {
-    color: #B7ACC3;
-}
-.a:visited {
-     color: #B7ACC3;
-}
-.a:link {
-     color: #B7ACC3;
-}
-a:hover, a:active, a:focus { 
-     text-decoration: underline;
-}
-.a {
-     color: #B7ACC3;
-}
-@font-face {
-    font-family: 'D-DINCondensed';
-    src: url(../fonts/D-DINCondensed-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'D-DINCondensed';
-    src: url(../fonts/D-DINCondensed.otf);
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN-Italic.otf);
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN-Bold.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'D-DIN';
-    src: url(../fonts/D-DIN.otf);
+  }
+a {
+    color:
 }
