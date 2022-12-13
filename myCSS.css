@@ -1,16 +1,10 @@
 @charset "UTF-8";
 .homePage {
   background: #255255;
-  /*
   background-image: url('files/girlbg.png');
-  background-image: inherit;
-  */
-}
-.background-image {
-	
 }
 body {
-	background-image: url('files/girlbg.png');
+	background-image: url('files/girlbgblue.png');
 }
 .container {
   width: 960px;
@@ -58,6 +52,7 @@ body {
   float: left;
   width: 100%;
   text-align: center;
+  position: relative;
 }
 h1 {
   color: #0d1d1f;
