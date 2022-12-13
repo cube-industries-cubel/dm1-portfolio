@@ -1,5 +1,5 @@
 @charset "UTF-8";
-html.homePage {
+.homePage {
   background: #255255;
   background-image: url("files/girlbg.png");
 }
