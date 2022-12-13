@@ -96,4 +96,6 @@ a {
 }
 p {
   color: #0D1D1F;
+  text-decoration: bold;
+  text-size-adjust: 14px;
 }
