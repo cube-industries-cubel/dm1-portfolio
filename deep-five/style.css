@@ -39,7 +39,7 @@ p {
   font-family: sans-serif;
 }
 body {
-    background-image url('CUBEheader.png');
+    background-image url:('CUBEheader.png');
     color: #FFFFFF;
     background-repeat: no-repeat;
     background-color: #343C3C; 
@@ -49,7 +49,6 @@ img {
   border-width: 12px;
   border-style: groove;
 }
-
 CUBEheader class="png" {
   <a href= "index.html">
 }
