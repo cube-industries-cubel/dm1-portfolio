@@ -1,7 +1,7 @@
 @charset "UTF-8";
 .homePage {
   background: #255255;
-  background-image: url= "files/girlbg.png";
+  background-image: image("girlbg.png");
 }
 .container {
   width: 960px;
