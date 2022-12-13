@@ -2,11 +2,14 @@
 .homePage {
   background: #255255;
   /*
-  background-image: url('girlbg.png');
+  background-image: url('files/girlbg.png');
   background-image: inherit;
   */
 }
-html {
+.background-image {
+	
+}
+body {
 	background-image: url('files/girlbg.png');
 }
 .container {
