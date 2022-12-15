@@ -1,25 +1,4 @@
 @charset "UTF-8";
-.homePage {
-  background-image: url("files/girlbg.png");
-  background: #255255;
-}
-.content {
-}
-.header > .nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-left: 15.6vw;
-  padding-right: 15.6vw;
-  background-color: #1e1e1e;
-  border-radius: 5px;
-  box-shadow: 0 3px 5px 5px rgba(0, 0, 0, 0.3);
-  flex-direction: column;
-  margin: 10px;
-}
-.background-image {
-  float: center;
-}
 /*
 body {
 	background-image: url('files/girlbgblue.png');
@@ -72,6 +51,17 @@ body {
   width: 100%;
   text-align: center;
   position: relative;
+}
+.homePage {
+  background-image: url("files/girlbg.png");
+  background: #255255;
+}
+/*
+.content {
+}
+*/
+.background-image {
+  float: none;
 }
 h1 {
   color: #0d1d1f;
