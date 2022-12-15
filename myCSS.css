@@ -1,7 +1,10 @@
 @charset "UTF-8";
 .homePage {
-  background: #255255;
   background-image: url("files/girlbg.png");
+  background: #255255;
+}
+.background-image {
+  float: center;
 }
 /*
 body {
@@ -47,7 +50,6 @@ body {
   width: 100%;
   height: 960px;
   text-align: center;
-  background-image: url("files/girlbg.png");
 }
 .footer {
   background: #516c6e;
