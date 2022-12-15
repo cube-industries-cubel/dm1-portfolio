@@ -4,6 +4,9 @@ body {
 	background-image: url('files/girlbgblue.png');
 }
 */
+html {
+  background-image: ("files/girlbgblue.png");
+}
 .container {
   width: 960px;
   margin: 0 auto;
