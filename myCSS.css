@@ -57,14 +57,13 @@ html {
 }
 .homePage {
   background-image: url("files/girlbg.png");
+  /*
   background: #255255;
 }
 /*
 .content {
 }
 */
-.background-image {
-  float: none;
 }
 h1 {
   color: #0d1d1f;
